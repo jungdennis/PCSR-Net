@@ -1,7 +1,3 @@
-# PCSR-Net
-Part Attention and Contrastive Loss-based Super-resolution Reconstruction Network for Person Re-identification from Thermal images.
-
------------------------------------------------------------------------------------------------------------------------------
 You can download pretrained weights in here:
 
 https://drive.google.com/file/d/1JVJeIfBpH7z02USKhWJPaAMSwjmqIEg_/view?usp=drive_link
