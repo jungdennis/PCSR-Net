@@ -1,10 +1,6 @@
 # PCSR-Net
 -----------------------------------------------------------------------------------------------------------------------------
-Part Attention and Contrastive Loss-based Super-resolution Reconstruction Network for Person Re-identification from Thermal images. Any works that uses the provided pretrained network must acknowledge the authors by including the following reference.
-
-    Seung Yong Jung, Dong Chan Lee, Min Su Jeong, Seong In Jeong, and Kang Ryoung Park, “PCSR-Net : Part Attention and Contrastive Loss-based Super-resolution Reconstruction Network for Person Re-identification from Thermal images,” Engineering Applications of Artificial Intelligence, In submission 
-    
-<br>
+Part Attention and Contrastive Loss-based Super-resolution Reconstruction Network for Person Re-identification from Thermal images.
 
 -----------------------------------------------------------------------------------------------------------------------------
 You can download pretrained weights in here:
