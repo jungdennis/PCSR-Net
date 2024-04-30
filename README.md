@@ -1,5 +1,4 @@
 # PCSR-Net
------------------------------------------------------------------------------------------------------------------------------
 Part Attention and Contrastive Loss-based Super-resolution Reconstruction Network for Person Re-identification from Thermal images.
 
 -----------------------------------------------------------------------------------------------------------------------------
