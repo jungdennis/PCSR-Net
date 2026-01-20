@@ -1,20 +1,20 @@
 You can download pretrained weights in here:
 
-https://drive.google.com/file/d/1JVJeIfBpH7z02USKhWJPaAMSwjmqIEg_/view?usp=drive_link
+[https://drive.google.com/file/d/1JVJeIfBpH7z02USKhWJPaAMSwjmqIEg_/view?usp=drive_link](https://drive.google.com/file/d/100BvkkfJRlXO80ifI93Z71-BfVD9nFc1/view?usp=drive_link)
 
 -----------------------------------------------------------------------------------------------------------------------------
 You can download thermal database in here:
 
 - DBPerson-Recog-DB1_thermal [1]
 
-    - HR/LR : https://drive.google.com/file/d/1ee8BF2nHRtJOlU_7lH26YuGjmLE1FfjN/view?usp=drive_link
+    - HR/LR : [https://drive.google.com/file/d/1ee8BF2nHRtJOlU_7lH26YuGjmLE1FfjN/view?usp=drive_link](https://drive.google.com/file/d/1_Bx9H-BHXeUt7hB2ujtd1HKZq_s2jtSX/view?usp=sharing)
 
 - SYSU-MM01 [2]
 
     - HR : https://github.com/wuancong/SYSU-MM01
 
-    - LR : https://drive.google.com/file/d/1SnvGL1IEMvh2lBPfoLgqNsn9qeCvkeu5/view?usp=drive_link
-
+    - LR : [https://drive.google.com/file/d/1SnvGL1IEMvh2lBPfoLgqNsn9qeCvkeu5/view?usp=drive_link
+](https://drive.google.com/file/d/1Umau_IunjdfTETLLZVdV97LCn0BEUQnK/view?usp=sharing)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
